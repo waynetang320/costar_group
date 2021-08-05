@@ -1,0 +1,14 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+#root {
+    height:100%;
+    width:100%;
+}
+.userSelectItem{
+    color:blue;
+}
+table{
+    margin-top: 10px;
+}
